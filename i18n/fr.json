@@ -8,13 +8,13 @@
     "contact": "Contact"
   },
   "hero": {
-    "title": "Kaihou Langues",
+    "title": "Kaihou Project",
     "subtitle": "Ouvert",
     "desc": "Relier la langue et la technologie. Nous soutenons les projets open-source."
   },
   "about": {
     "title": "À propos",
-    "text": "Kaihou Languages combine technologie et langues pour supprimer les barrières pour les développeurs et petits projets open-source. Nous offrons traduction, interprétation et support numérique gratuit."
+    "text": "Kaihou Project combine technologie et langues pour supprimer les barrières pour les développeurs et petits projets open-source. Nous offrons traduction, interprétation et support numérique gratuit."
   },
   "services": {
     "title": "Services",
@@ -71,6 +71,6 @@
     }
   },
   "footer": {
-    "rights": "© 2026 Kaihou Languages"
+    "rights": "© 2026 Kaihou Project"
   }
 }
